@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362802465074",
+    "project_id": "kdichon-gps-tracker",
+    "storage_bucket": "kdichon-gps-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362802465074:android:f9f22d91ba26a8f014af2b",
+        "android_client_info": {
+          "package_name": "com.actionverite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362802465074-bi8bq1vo5994gdeff2dbijbprub94qoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcemSbxmLqDCSKEvDMToiA-wghjHj9Ws0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362802465074-bi8bq1vo5994gdeff2dbijbprub94qoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
