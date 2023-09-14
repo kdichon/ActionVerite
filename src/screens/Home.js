@@ -1,7 +1,7 @@
 import {FlatList, StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 import {useSelector} from 'react-redux';
-import Item from './common/item';
+import Item from './common/Item';
 
 const Home = () => {
   const category = useSelector(state => state.category);
